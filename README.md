@@ -1,4 +1,4 @@
-# GR14 OGBInterchain 👽
+# GR14 — OGBInterchain 👽
 Let's create a public good research dataset to introspect about the world we are helping to bring about!
 
 **_Note:_** this grant and adjacent ideas started as a hack @ GraphHack 2022 in beautiful San Francisco; several of our teammates have won prizes for their work in indexing CosmWasm smart contracts, Cosmos Hub / Osmosis / Junø chains. The repos involved in the original and individual hack(s) have been forked for extension as a part of this grant: https://github.com/ogb-interchain
@@ -101,15 +101,10 @@ We will seek to ensure our best understanding and counsel on fair labor practice
 **Team SSIs and other socials**
 [Gnosis Safe](https://docs.gnosis-safe.io/introduction/security/security-audits): `0xa814e9a53803E424DFa115c956101d950C74417a`
 
--   Barton Rhodes ([@bmorphism.lens]($AR` for storage of the processed artifact)) - securityDAO founding member, DAO DAO contributor, DEFCON AIV resident degen; prev. graph MLOps @ Lacework, Airflow Helm / Kubeflow Anthos ML platform development, Google Cloud Partner startup co-founder Optfit, [sciencing security data](https://arxiv.org/abs/1811.08705) and (formally abandoned, fondly remembered) academic pursuit of mathematics
-    -   `bmorphism.eth`
-• Gavin Doughtie - Principle Engineer @ Google, Rust SF Meetup founder and organizer, DAO DAO contributor, UIUX, winner of GraphHack 2022 challenge category
-    `0x5b7126A90e93C0Af0b45dd5F68a34CF9C8FcCb13
--   James Ortega (@entrancedjames) - Distributed Systems Engineer @ Twitter, DAO DAO contributor, winner of GraphHack 2022 challenge category
-    -   `0x41C8dEA30C6f5eFdCDD3eF842b0c9ffB8E46089a`
--   Nikita Trifan (@nikitatrifan) - WasmSwap UI contributor, prev. UIUX front-end engineer @ Adobe
-    -   `0x39D2f20c0EF14FD4e65a1aDA9b65C0B39443B1aF`
--   Patrycja Zawadka (@patiee) - open-source contributor to Graph Protocol, developed Cosmos chain integration into the Graph while at Figment
-    -   `0x46ea86aaec5178a2C047BE00abe85E45650e1357
+• Barton Rhodes (@bmorphism.lens) - securityDAO founding member, DAO DAO contributor, DEFCON AIV resident degen; prev. graph MLOps @ Lacework, Airflow Helm / Kubeflow Anthos ML platform development, Google Cloud Partner startup co-founder Optfit, [sciencing security data](https://arxiv.org/abs/1811.08705) and ancient past (formally abandoned, fondly remembered) academic pursuit of mathematics ``
+• Gavin Doughtie (`0x5b7126A90e93C0Af0b45dd5F68a34CF9C8FcCb13`) - Principal Engineer @ Google, Rust SF Meetup founder and organizer, DAO DAO contributor, UIUX, winner of GraphHack 2022 challenge category
+• James Ortega (@entrancedjames `0x41C8dEA30C6f5eFdCDD3eF842b0c9ffB8E46089a`) - Distributed Systems Engineer @ Twitter, DAO DAO contributor, winner of GraphHack 2022 challenge category
+• Nikita Trifan (@nikitatrifan `0x39D2f20c0EF14FD4e65a1aDA9b65C0B39443B1aF`) - WasmSwap UI contributor, prev. UIUX front-end engineer @ Adobe
+• Patrycja Zawadka (@patiee `0x46ea86aaec5178a2C047BE00abe85E45650e1357`) - open-source contributor to Graph Protocol, developed Cosmos chain integration into the Graph while at Figment
 
-Any additions to the team, treasury allocation, or any governance of import will be additionally socialized through @OGBInterchain Twitter account holding a Twitter Space, with soft consensus subject to polls, Commonwealth, and ultimately an on-chain footprint.
+Any additions to the team, treasury allocation, or any governance of import will be additionally socialized through the official [@OGBInterchain Twitter account](https://twitter.com/ogbinterchain) through posting or holding a Twitter Space, with soft consensus subject to polls, Commonwealth, and ultimately an on-chain footprint.
