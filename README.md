@@ -1,5 +1,5 @@
-# GR14
-hyperreality is you and I!
+# GR14 OGBInterchain 👽
+Let's create a public good research dataset to introspect about the world we are helping to bring about!
 
 **_Note:_** this grant and adjacent ideas started as a hack @ GraphHack 2022 in beautiful San Francisco; several of our teammates have won prizes for their work in indexing CosmWasm smart contracts, Cosmos Hub / Osmosis / Junø chains. The repos involved in the original and individual hack(s) have been forked for extension as a part of this grant: https://github.com/ogb-interchain
 
